@@ -81,9 +81,9 @@ def adding_matz
         }
      }
 programmer_hash_new = {yukihiro_matsumoto: {known_for: "Ruby", languages: ["LISP", "C"]}}.merge(programmer_hash)
-puts programmer_hash_new    
+#puts programmer_hash_new    
 end
-adding_matz
+#adding_matz
 
 def changing_alan
 	programmer_hash = 
